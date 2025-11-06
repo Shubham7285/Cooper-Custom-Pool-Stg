@@ -15,7 +15,7 @@ defined("ABSPATH") || exit();
 get_header();
 $get_rds_template_data_array = RDS_TEMPLATE_DATA;
 ?>
-57tg8yihnjolk ;,.
+
 <main>
     <?php get_template_part(
     	"global-templates/subpage-hero/subpage-banner-section"
